@@ -6,4 +6,5 @@ while (input > 0) {
     input = Math.floor(input / 10);
 
 }
+
 console.log(sum); 
